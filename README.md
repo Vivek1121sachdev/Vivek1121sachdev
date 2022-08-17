@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+![](https://export-download.canva.com/fYfyM/DAFJkWfYfyM/4/0/0001-33077035486.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220816%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220816T234218Z&X-Amz-Expires=41272&X-Amz-Signature=d1a3cd10d551f6da8eff4fcb71a0e9795f786daf6fdc5832a667e57cd0aab644&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Blue%2520and%2520White%2520Geometric%2520Technology%2520Linkedin%2520Banner.png&response-expires=Wed%2C%2017%20Aug%202022%2011%3A10%3A10%20GMT)
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -48,3 +46,5 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <!-- <div align="center"> -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1121sachdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- </div> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek1121sachdev&theme=vision-friendly-dark&hide=contribs,issues&show_icons=true&layout=compact" alt="Vivek's github stats" /></a>
