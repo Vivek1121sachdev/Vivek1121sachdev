@@ -1,13 +1,13 @@
 ![](https://export-download.canva.com/fYfyM/DAFJkWfYfyM/4/0/0001-33077035486.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220816%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220816T234218Z&X-Amz-Expires=41272&X-Amz-Signature=d1a3cd10d551f6da8eff4fcb71a0e9795f786daf6fdc5832a667e57cd0aab644&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Blue%2520and%2520White%2520Geometric%2520Technology%2520Linkedin%2520Banner.png&response-expires=Wed%2C%2017%20Aug%202022%2011%3A10%3A10%20GMT)
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/vivek-sachdev-49b72a204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" url="https://www.linkedin.com/in/vivek-sachdev-49b72a204/"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/vivek._.sachdev/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/VivekSachdev112">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -40,10 +40,10 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-🧰 Toolbox
+### :hammer_and_wrench: Languages and Tools :
 
-<img src="https://user-images.githubusercontent.com/88226437/185104353-538cc278-e9b6-48a4-8622-42fb9bce71b7.svg" alt="" align="center" width="50" height="50"/>
-
+|<img src="https://user-images.githubusercontent.com/88226437/185104353-538cc278-e9b6-48a4-8622-42fb9bce71b7.svg" alt="c++ logo" width="50" height="50"/>|<img src="https://user-images.githubusercontent.com/88226437/185105419-31c8f811-0366-41bf-9362-182e9849e039.svg" alt="ps logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105876-7c8eda4c-0d9c-44ff-8fde-3c23a6691611.svg" alt="html logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105977-ea811db6-0fe8-40ef-a1d2-980dccc702ef.svg" alt="css logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105978-266e3d10-b709-496c-9cac-854418f3a53b.svg" alt="css logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105972-a9955444-250c-4bca-841d-7a03855b5f6e.svg" alt="bootstrap logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105984-1d3a8aee-1cbc-4cae-a5c7-e9211b3b850b.svg" alt="tailwind logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105980-c01b59f1-360e-446c-a4c4-37780e8a73b8.svg" alt="reactjs logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105979-807562c3-5f14-4849-b906-7558fa430354.svg" alt="node logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105983-7414c4e5-0754-4264-ac5c-03cd4f140a9b.svg" alt="solidity logo" width="50" height="50">|
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | 
 ---
 
 ### :fire: My Stats :
