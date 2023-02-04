@@ -21,9 +21,9 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: Currently I’m pursuing my B.tech degree from Charusat University in Computer Engineering.
 
-- :seedling: Exploring Blockchain Technology.
+- :seedling: Exploring Cloud Computing and DevOps.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I learn about investing and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vivek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-sachdev-49b72a204/)
 
