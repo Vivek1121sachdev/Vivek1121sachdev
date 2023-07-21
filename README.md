@@ -24,7 +24,7 @@ I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring Cloud Computing and DevOps.
 
-- :zap: In my free time, I learn about investing and read tech articles.
+- :zap: In my free time, I learn about investing and read and publish tech articles at https://medium.com/@viveksachdev1121.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vivek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-sachdev-49b72a204/)
 
