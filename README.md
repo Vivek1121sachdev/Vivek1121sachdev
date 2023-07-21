@@ -1,4 +1,6 @@
 ![Blue and White Geometric Technology Linkedin Banner](https://user-images.githubusercontent.com/88226437/186221963-7e9e0f1f-d9f7-4181-b216-56f6dba559cb.png)
+![1677039631532](https://github.com/Vivek1121sachdev/Vivek1121sachdev/assets/88226437/b372f9f7-46fc-49e8-bc36-3838e96fe3f5)
+
 
 
 <div id="badges" align="center">
