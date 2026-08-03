@@ -1,64 +1,107 @@
-![1703686335764](https://github.com/user-attachments/assets/5f3d8d68-801c-4b47-b53a-00e190587c39)
-
-
-
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vivek-sachdev-49b72a204/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" url="https://www.linkedin.com/in/vivek-sachdev-49b72a204/"/>
-  </a>
-  <a href="https://www.instagram.com/vivek._.sachdev/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/VivekSachdev112">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
----
-
-### :woman_technologist: About Me :
-
-I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: Currently I’m pursuing my B.tech degree from Charusat University in Computer Engineering.
-
-- :seedling: Exploring Cloud Computing and DevOps.
-
-- :zap: In my free time, I learn about investing
-
-- :memo: Publishing tech articles at https://medium.com/@viveksachdev1121.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vivek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-sachdev-49b72a204/)
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek1121sachdev&style=flat-square&color=blue" alt="" align="center"/>
+
+# Hi there 👋 I'm Vivek Sachdev
+
+### DevOps Engineer | AWS | Kubernetes | Terraform | GitOps | CI/CD
+
+Building scalable cloud infrastructure, automating deployments, and designing production-ready DevOps platforms.
+
+<p>
+<a href="https://www.linkedin.com/in/vivek-sachdev-49b72a204/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@viveksachdev1121">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:viveksachdev8@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Vivek1121sachdev&style=flat-square&color=blue" />
+
 </div>
 
-<h1  align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
 
+# 🚀 About Me
 
+I'm a DevOps Engineer from India passionate about Cloud Infrastructure, Automation and Kubernetes.
 
+- ☁️ AWS Certified Solutions Architect Associate & Terraform Certified Associate 
+- 🌍 Building scalable cloud infrastructure using Terraform
+- ⚙️ Kubernetes, Helm & GitOps with ArgoCD
+- 🚀 Building CI/CD pipelines using GitHub Actions, Jenkins and AWS CodePipeline
+- 📊 Monitoring using Prometheus, Grafana and Loki
+- 🐳 Docker, Amazon ECR & ECS
+- 📝 I occasionally write technical articles on Medium
+  
+---
+
+# 🛠 Tech Stack
+
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,bash,git,prometheus,grafana" />
+</p>
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+# 🚀 What I Work With
 
-|<img src="https://user-images.githubusercontent.com/88226437/185104353-538cc278-e9b6-48a4-8622-42fb9bce71b7.svg" alt="c++ logo" width="50" height="50"/>|<img src="https://user-images.githubusercontent.com/88226437/185105419-31c8f811-0366-41bf-9362-182e9849e039.svg" alt="ps logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105876-7c8eda4c-0d9c-44ff-8fde-3c23a6691611.svg" alt="html logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105977-ea811db6-0fe8-40ef-a1d2-980dccc702ef.svg" alt="css logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105978-266e3d10-b709-496c-9cac-854418f3a53b.svg" alt="css logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105972-a9955444-250c-4bca-841d-7a03855b5f6e.svg" alt="bootstrap logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105984-1d3a8aee-1cbc-4cae-a5c7-e9211b3b850b.svg" alt="tailwind logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105980-c01b59f1-360e-446c-a4c4-37780e8a73b8.svg" alt="reactjs logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105979-807562c3-5f14-4849-b906-7558fa430354.svg" alt="node logo" width="50" height="50">|<img src="https://user-images.githubusercontent.com/88226437/185105983-7414c4e5-0754-4264-ac5c-03cd4f140a9b.svg" alt="solidity logo" width="50" height="50">|
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | 
+- AWS
+- Terraform
+- Kubernetes
+- Helm
+- ArgoCD
+- GitHub Actions
+- Gitlab Pipeline
+- Jenkins
+- Docker
+- Prometheus
+- Grafana
+- Loki
+- Linux
+- Bash
+- Python
+- PostgreSQL
+
 ---
 
-### :fire: My Stats :
+# 📈 GitHub Stats
 
-<!-- <div align="center"> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vivek1121sachdev&theme=blue-green)](https://git.io/streak-stats)
-<!-- </div> -->
+![](https://github-readme-streak-stats.herokuapp.com?user=Vivek1121sachdev&theme=tokyonight)
 
-<!-- <div align="center"> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1121sachdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- </div> -->
+![](https://github-readme-stats.vercel.app/api?username=Vivek1121sachdev&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek1121sachdev&theme=vision-friendly-dark&hide=contribs,issues&show_icons=true&layout=compact" alt="Vivek's github stats" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1121sachdev&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/vivek-sachdev/
+- Medium: https://medium.com/@viveksachdev1121
+- Email: viveksachdev8@gmail.com
