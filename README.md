@@ -90,16 +90,6 @@ I'm a DevOps Engineer from India passionate about Cloud Infrastructure, Automati
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com?user=Vivek1121sachdev&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api?username=Vivek1121sachdev&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1121sachdev&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/vivek-sachdev/
